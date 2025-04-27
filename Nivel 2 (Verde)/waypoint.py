@@ -7,7 +7,7 @@ from math import atan2, sqrt
 from tf.transformations import euler_from_quaternion  # Importa la función necesaria
 
 # Inicialización de variables
-waypoints = [(1, -0.2),(2, -0.2), (2.9, -0.35), (3, -0.8), (6.3, -0.8)]  # Waypoints a los que el robot se debe mover
+waypoints = [(1, -0.2),(2, -0.2), (2.4, -0.30), (3, -0.6), (3.5, -1),(4, -1.2), (6.3, -1.2)]  # Waypoints a los que el robot se debe mover
 current_waypoint_index = 0  # El índice del waypoint actual
 
 # Inicializamos el nodo de ROS
