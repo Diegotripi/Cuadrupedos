@@ -6,6 +6,7 @@ from nav_msgs.msg import Odometry
 from math import atan2, sqrt
 from tf.transformations import euler_from_quaternion  # Importa la función necesaria
 
+
 # Inicialización de variables
 waypoints = [(3, 0),(3, -2), (6, -2)]  # Waypoints a los que el robot se debe mover
 current_waypoint_index = 0  # El índice del waypoint actual
