@@ -1,4 +1,4 @@
-Nivel elaborado por Tom
+Nivel elaborado por Kevin
 Para poder ejecutar el archivo se debe de usar esta configuracion:
 Tipo de paso: trot
 
