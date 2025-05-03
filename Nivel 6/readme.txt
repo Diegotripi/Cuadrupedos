@@ -1,4 +1,4 @@
-Nivel elaborado por Diego
+Nivel elaborado por Tom
 Para poder ejecutar el archivo se debe de usar esta configuracion:
 Tipo de paso: trot
 Punto de inicio del robot: -y 12.3 -z 0.5
